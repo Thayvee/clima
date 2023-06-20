@@ -1,0 +1,53 @@
+p{
+  font-size:60px;
+  margin: 0px;
+  
+  font-family: 'Raleway', sans-serif;
+
+
+}
+
+h1{
+  font-size: 70px;
+  margin: 0px;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+h2{
+  font-family: 'Raleway', sans-serif;
+  font-size: 80px;
+  margin: 0px;
+  text-transform: uppercase;
+}
+
+.container{
+  display: flex;
+  width: 2090px;
+  justify-content: space-between;
+  border-radius: 120px;
+  padding: 60px;
+  background: linear-gradient(to right, #e12a62, #9c3b7f, #664895);
+}
+
+img{
+  width: 200px;
+}
+
+li{
+  display: flex;
+  width: 290px;
+  flex-direction: column;
+  align-items: center;
+  background: #aa75a8;
+  font-family: 'Raleway', sans-serif;
+  border-radius: 70px;
+  padding: 20px;
+}
+
+.Clima{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center
+}
